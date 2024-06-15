@@ -1,0 +1,4 @@
+2024-06-15 14:11:44.681 - INFO - 5595 - azureml.train.automl.run._log_activity:55 - ActivityStarted: RegisterModel
+2024-06-15 14:11:44.712 - INFO - 5595 - azureml.train.automl.run._log_activity:55 - ActivityStarted: GetChildren
+2024-06-15 14:11:44.884 - INFO - 5595 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=GetChildren, HowEnded=Success, Duration=171.71[ms]
+2024-06-15 14:11:46.570 - INFO - 5595 - azureml.train.automl.run._log_activity:89 - ActivityCompleted: Activity=RegisterModel, HowEnded=Success, Duration=1889.11[ms]
